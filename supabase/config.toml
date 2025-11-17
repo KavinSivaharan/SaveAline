@@ -1,0 +1,10 @@
+project_id = "vpiaioheqebyvizmostg"
+
+[functions.scrape-website]
+verify_jwt = false
+
+[functions.crawl-status]
+verify_jwt = false
+
+[functions.process-content]
+verify_jwt = false
